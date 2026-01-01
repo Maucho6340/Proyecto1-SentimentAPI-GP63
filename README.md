@@ -5,3 +5,8 @@ Crear una API simple que recibe textos (comentarios, reseñas o tweets), aplica 
   
 <h1>Tarea Específica</h1>
 Exploración y limpieza de los datos (EDA)
+
+
+Para ejecutar debe poner:
+
+```npn instal react```
