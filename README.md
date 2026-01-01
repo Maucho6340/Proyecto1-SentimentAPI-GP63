@@ -11,3 +11,5 @@ Exploración y limpieza de los datos (EDA)
 Para ejecutar debe poner: 
 
 `npm install react`
+
+sitema de Registro 2
