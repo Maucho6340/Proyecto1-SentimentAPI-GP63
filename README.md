@@ -7,6 +7,7 @@ Crear una API simple que recibe textos (comentarios, reseñas o tweets), aplica 
 Exploración y limpieza de los datos (EDA)
 
 
-Para ejecutar el sistema, debes poner:
+<h1>Instrucción</h1>
+Para ejecutar debe poner: 
 
-``npm install react``
+`npm install react`
